@@ -1,0 +1,85 @@
+html {
+  color: black;
+  background-color: white;
+}
+
+body {
+  margin : .2em .5em;
+  padding: .2em .5em;
+  color: black;
+  background-color: white;
+  font-family: 'Courier New', 'Courier', Monospace;
+  line-height: 130%;
+}
+
+img {
+  margin: 0em .2em;
+  padding: 0em;
+}
+
+p {
+  margin: .2em;
+  padding: 0em;
+}
+
+ul, ol {
+  margin: .4em 1em;
+  padding: .4em 1em;
+}
+
+div {
+  margin: .2em;
+  padding: .2em;
+}
+
+div#error {
+  margin: 0em;
+  padding: 0em;
+}
+
+div#account {
+  position: absolute;
+  right: .5em;
+  margin: 0em;
+  padding: 0em;
+}
+
+div.box {
+  border: 1px solid black;
+}
+
+p.date {
+  font-size: 90%;
+}
+
+.mytako {
+  font-weight: bold;
+}
+
+input {
+  vertical-align: middle;
+}
+
+input.sexy {
+  background: url(openid.gif) no-repeat;
+  background-position: 1px 50%;
+  background-color: inherit;
+  padding-left: 19px;
+}
+
+.switch {
+  font-size: 90%;
+  color: green;
+  font-weight: normal;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.favicon {
+  vertical-align: middle;
+}
+
+form {
+  margin: .2em;
+  padding: .2em;
+}
